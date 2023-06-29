@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+   
+    background-image: url(v2osk-1Z2niiBPg5A-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+    font-family: cursive;
+}
+
+.container {
+    font-size: x-large;
+    margin: 40px auto;
+    height: 240px;
+    width: 400px;
+    
+    border-radius: 40px;
+    padding: 30px 20px;
+    background-color: rgb(193, 201, 230);
+    
+    box-shadow: 10px 10px  10px rgb(173, 104, 104);
+
+}
+h4 {
+    text-align: center;
+    color: brown;
+}
+
+input,
+select {
+    font-size: 20px;
+    padding: 5px;
+    height: 30px;
+    border: none;
+    background-color: rgb(176, 193, 187);
+    color: rgb(30, 123, 204);
+    border-radius: 10px;
+}
+#submit{
+   margin-left: 150px;
+   background-color: rgb(93, 194, 93);
+   color: white;
+  height: 40px;
+  width: 100px;
+   
+}
+#result{
+    margin-left:  130px;
+    color: rgb(30, 123, 204);
+}
